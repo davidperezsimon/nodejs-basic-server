@@ -1,12 +1,12 @@
 {
   "name": "nodejs-basic-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic nodejs server implementation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/davidperezsimon",
   "license": "ISC"
 }
